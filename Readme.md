@@ -1,3 +1,19 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/XtraPivotGridTutorial.Step1/Form1.cs) (VB: [Form1.vb](./VB/XtraPivotGridTutorial.Step1/Form1.vb))
+* [Program.cs](./CS/XtraPivotGridTutorial.Step1/Program.cs) (VB: [Program.vb](./VB/XtraPivotGridTutorial.Step1/Program.vb))
+* [Form1.cs](./CS/XtraPivotGridTutorial.Step2/Form1.cs) (VB: [Form1.vb](./VB/XtraPivotGridTutorial.Step2/Form1.vb))
+* [Program.cs](./CS/XtraPivotGridTutorial.Step2/Program.cs) (VB: [Program.vb](./VB/XtraPivotGridTutorial.Step2/Program.vb))
+* [Form1.cs](./CS/XtraPivotGridTutorial.Step3/Form1.cs) (VB: [Form1.vb](./VB/XtraPivotGridTutorial.Step3/Form1.vb))
+* [Program.cs](./CS/XtraPivotGridTutorial.Step3/Program.cs) (VB: [Program.vb](./VB/XtraPivotGridTutorial.Step3/Program.vb))
+* [Form1.cs](./CS/XtraPivotGridTutorial.Step4/Form1.cs) (VB: [Form1.vb](./VB/XtraPivotGridTutorial.Step4/Form1.vb))
+* [Program.cs](./CS/XtraPivotGridTutorial.Step4/Program.cs) (VB: [Program.vb](./VB/XtraPivotGridTutorial.Step4/Program.vb))
+* [Form1.cs](./CS/XtraPivotGridTutorial.Step5/Form1.cs) (VB: [Form1.vb](./VB/XtraPivotGridTutorial.Step5/Form1.vb))
+* [Program.cs](./CS/XtraPivotGridTutorial.Step5/Program.cs) (VB: [Program.vb](./VB/XtraPivotGridTutorial.Step5/Program.vb))
+* [Form1.cs](./CS/XtraPivotGridTutorial.Step6/Form1.cs) (VB: [Form1.vb](./VB/XtraPivotGridTutorial.Step6/Form1.vb))
+* [Program.cs](./CS/XtraPivotGridTutorial.Step6/Program.cs) (VB: [Program.vb](./VB/XtraPivotGridTutorial.Step6/Program.vb))
+<!-- default file list end -->
 # How to build a simple data analysis application using the XtraPivotGrid
 
 
